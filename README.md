@@ -16,6 +16,7 @@
 | `_teaching/` | 教学信息 |
 | `_portfolio/` | 作品集 |
 | `_pages/` | 静态页面 |
+| `_data/` | 站点配置数据（导航、作者信息等） |
 | `_drafts/` | 草稿 |
 | `files/` | PDF 等附件（线上路径为 `/files/...`） |
 | `images/` | 图片资源 |
@@ -70,7 +71,7 @@ docker compose up
 ## 内容更新流程
 
 1. 新内容先放入 `_drafts/` 草稿目录
-2. 进入 `_posts/` 之前，在父仓库运行 frontmatter 检查：
+2. 进入 `_posts/` 之前，在父仓库根目录执行 frontmatter 检查：
 
    ```bash
    python3 scripts/blog_admin.py lint-posts
@@ -78,8 +79,13 @@ docker compose up
    ```
 
    发布前门禁使用 `--strict`，存在 error 时不发布。
-3. 在本仓库提交变更
-4. 站点公开发布：`git push origin master` 后由 GitHub Pages 自动构建部署（本仓库即用户站源仓库，线上地址 <https://mengzhu0308.github.io>）
+3. 重要变更（新增内容、结构调整、URL 修复等）记录到 [CHANGELOG.md](CHANGELOG.md) 的 [Unreleased] 段
+4. 在本仓库提交变更
+5. 站点公开发布：`git push origin master` 后由 GitHub Pages 自动构建部署（本仓库即用户站源仓库，线上地址 <https://mengzhu0308.github.io>）
+
+## 变更记录
+
+本站重要变更记录见 [CHANGELOG.md](CHANGELOG.md)，格式遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)，按日期分段。
 
 ## 致谢
 
