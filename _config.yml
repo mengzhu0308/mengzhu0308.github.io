@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic Pages of Meng Zhu"
+title                    : "朱梦的学术网站"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : "Academic Pages of Meng Zhu"
+description              : "朱梦的学术网站"
 url                      : https://mengzhu0308.github.io/mengzhu0308.githup.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengzhu0308/mengzhu0308.githup.io"
