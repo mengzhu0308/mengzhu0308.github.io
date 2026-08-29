@@ -79,7 +79,7 @@ docker compose up
 
    发布前门禁使用 `--strict`，存在 error 时不发布。
 3. 在本仓库提交变更
-4. 站点公开发布由父仓库 `project-publish/main.py` 编排，镜像推送到用户页仓库 [mengzhu0308/mengzhu0308.github.io](https://github.com/mengzhu0308/mengzhu0308.github.io)
+4. 站点公开发布：`git push origin master` 后由 GitHub Pages 自动构建部署（本仓库即用户站源仓库，线上地址 <https://mengzhu0308.github.io>）
 
 ## 致谢
 
