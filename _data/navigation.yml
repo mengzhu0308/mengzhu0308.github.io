@@ -14,22 +14,22 @@ main:
   - title: "课题组与招生"
     url: /team-student-recruitment/
     
-  - title: "Publications"
+  - title: "发表物"
     url: /publications/
   
-  - title: "Blog Posts"
+  - title: "博客"
     url: /year-archive/
     
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/  
 
-  - title: "Talks"
+  - title: "访谈"
     url: /talks/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "CV"
+  - title: "个人简历"
     url: /cv/
     
   # - title: "CV"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Work Experience and Education
+工作与教育经历
 ------
 
 <div class="table-wrapper-about-work-experience">
   <table>
     <thead>
       <tr>
-        <th>Period</th>
-        <th>Institution</th>
-        <th>Department</th>
-        <th>Position</th>
+        <th>时间</th>
+        <th>机构</th>
+        <th>院系</th>
+        <th>职位</th>
       </tr>
     </thead>
     <tbody>
@@ -36,11 +36,11 @@ Work Experience and Education
   <table>
     <thead>
       <tr>
-        <th>Period</th>
-        <th>Graduated University</th>
-        <th>Major</th>
-        <th>Mentored by</th>
-        <th>Degree</th>
+        <th>时间</th>
+        <th>毕业院校</th>
+        <th>专业</th>
+        <th>导师</th>
+        <th>学位</th>
       </tr>
     </thead>
     <tbody>
@@ -70,24 +70,24 @@ Work Experience and Education
 </div>
 
 
-Publications
+发表物
 ------
 
-（* denotes corresponding authors, <sup>#</sup> denotes co-first authors.）
+（* 表示通讯作者,<sup>#</sup> 表示共同第一作者。）
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+访谈
 ------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Teaching
+教学
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-## Service and Leadership
+## 服务与领导力
