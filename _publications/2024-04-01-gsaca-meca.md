@@ -9,7 +9,7 @@ venue: 'Pattern Recognition'
 slidesurl: ''
 arXivurl: ''
 GitHuburl: 'https://github.com/mengzhu0308/GSACA-MECA'
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/papers/2024-04-01-gsaca-meca.pdf'
+paperurl: '/files/papers/2024-04-01-gsaca-meca.pdf'
 citation: 'Meng Zhu, Weidong Min*, Junwei Han, et al. Improved channel attention methods via hierarchical pooling and reducing information loss. Pattern Recognition, 2024, 148: 1-9. DOI: 10.1016/j.patcog.2023.110148.'
 ---
 

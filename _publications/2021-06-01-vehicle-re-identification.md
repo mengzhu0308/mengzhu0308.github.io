@@ -9,7 +9,7 @@ venue: 'Information Sciences'
 slidesurl: ''
 arXivurl: ''
 GitHuburl: ''
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/papers/2021-06-01-vehicle-re-identification.pdf'
+paperurl: '/files/papers/2021-06-01-vehicle-re-identification.pdf'
 citation: 'Qi Wang, Weidong Min*, Qing Han, Ziyuan Yang, Xin Xiong, Meng Zhu, Haoyu Zhao. Viewpoint adaptation learning with cross-view distance metric for robust vehicle re-identification. Information Sciences, 2021, 564: 71-84. DOI: 10.1016/j.ins.2021.02.013.'
 ---
 

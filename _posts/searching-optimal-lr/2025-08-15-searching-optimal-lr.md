@@ -6,5 +6,5 @@ tags:
   - 最优学习率
   - 搜索算法
   - 贝叶斯优化
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/searching-optimal-lr/2025-08-15-searching-optimal-lr.pdf'
+paperurl: '/files/blog/searching-optimal-lr/2025-08-15-searching-optimal-lr.pdf'
 ---

@@ -4,5 +4,5 @@ date: 2025-06-26
 permalink: /posts/2025/06/26/onboarding-guide/
 tags:
   - 看房
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/onboarding-guide/2025-06-26-onboarding-guide.pdf'
+paperurl: '/files/blog/onboarding-guide/2025-06-26-onboarding-guide.pdf'
 ---

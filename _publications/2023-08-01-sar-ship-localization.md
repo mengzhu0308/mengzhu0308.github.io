@@ -9,7 +9,7 @@ venue: 'Engineering Applications of Artificial Intelligence'
 slidesurl: ''
 arXivurl: ''
 GitHuburl: ''
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/papers/2023-08-01-sar-ship-localization.pdf'
+paperurl: '/files/papers/2023-08-01-sar-ship-localization.pdf'
 citation: 'Cheng Zha, Weidong Min*, Qing Han, Wei Li, Xin Xiong, Qi Wang, Meng Zhu. SAR ship localization method with denoising and feature refinement. Engineering Applications of Artificial Intelligence, 2023, 123: 1-13. DOI: 10.1016/j.engappai.2023.106444.'
 ---
 

@@ -8,5 +8,5 @@ tags:
   - 深度卷积
   - 线性RNN
   - 注意力
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/conv-rnn-attn/2025-07-05-cnn-rnn-attn.pdf'
+paperurl: '/files/blog/conv-rnn-attn/2025-07-05-cnn-rnn-attn.pdf'
 ---

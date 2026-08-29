@@ -5,5 +5,5 @@ permalink: /posts/2025/07/17/diy-dl-computer-research/
 tags:
   - DIY深度学习机器
   - 调研
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/diy-dl-computer/2025-07-17-diy-dl-computer-research.pdf'
+paperurl: '/files/blog/diy-dl-computer/2025-07-17-diy-dl-computer-research.pdf'
 ---

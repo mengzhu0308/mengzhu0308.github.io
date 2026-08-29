@@ -5,5 +5,5 @@ permalink: /posts/2025/07/16/renovation-guide/
 tags:
   - 装修
   - 简易防盗网
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/rental-renovation-guide/2025-07-16-renovation-guide.pdf'
+paperurl: '/files/blog/rental-renovation-guide/2025-07-16-renovation-guide.pdf'
 ---

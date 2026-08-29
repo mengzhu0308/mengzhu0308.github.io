@@ -9,7 +9,7 @@ venue: 'Information Fusion'
 slidesurl: ''
 arXivurl: ''
 GitHuburl: ''
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/papers/2023-12-01-image-inpainting.pdf'
+paperurl: '/files/papers/2023-12-01-image-inpainting.pdf'
 citation: 'Hongyue Xiang, Weidong Min*, Qing Han, Cheng Zha, Qian Liu, Meng Zhu. Structure-aware multi-view image inpainting using dual consistency attention. Information Fusion, 2024, 104: 1-11. DOI: 10.1016/j.inffus.2023.102174.'
 ---
 

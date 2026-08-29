@@ -7,5 +7,5 @@ tags:
   - 投影层/仿射层
   - 偏置项参数
   - 冗余
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/2025-06-17-bias-if-retained.pdf'
+paperurl: '/files/blog/2025-06-17-bias-if-retained.pdf'
 ---

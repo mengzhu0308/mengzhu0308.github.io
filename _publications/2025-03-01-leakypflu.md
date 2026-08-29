@@ -9,7 +9,7 @@ venue: 'Neural Computing and Applications'
 slidesurl: ''
 arXivurl: ''
 GitHuburl: 'https://github.com/mengzhu0308/LPFLU'
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/papers/2025-03-01-leakypflu.pdf'
+paperurl: '/files/papers/2025-03-01-leakypflu.pdf'
 citation: 'Meng Zhu, Weidong Min*, Jiahao Li, et al. Constructing a smoothed Leaky ReLU using a linear combination of the smoothed ReLU and identity function. Neural Computing and Applications, 2025: 1-14. DOI: 10.1007/s00521-024-10935-3.'
 ---
 

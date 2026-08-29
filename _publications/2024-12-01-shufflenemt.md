@@ -9,7 +9,7 @@ venue: 'Pattern Analysis and Applications'
 slidesurl: ''
 arXivurl: ''
 GitHuburl: 'https://github.com/mengzhu0308/ShuffleNeMt'
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/papers/2024-12-01-shufflenemt.pdf'
+paperurl: '/files/papers/2024-12-01-shufflenemt.pdf'
 citation: 'Meng Zhu, Weidong Min*, Qing Han, et al. ShuffleNeMt: Modern lightweight convolutional neural network architecture. Pattern Analysis and Applications, 2024, 27 (4): 123-134. DOI: 10.1007/s10044-024-01327-3.'
 ---
 

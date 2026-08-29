@@ -6,5 +6,5 @@ tags:
   - Scaling Law
   - 批处理大小
   - 学习率
-paperurl: 'https://mengzhu0308.github.io/mengzhu0308.githup.io/files/blog/scaling-law/2025-06-28-sgd-batch-size-lr-scaling-law.pdf'
+paperurl: '/files/blog/scaling-law/2025-06-28-sgd-batch-size-lr-scaling-law.pdf'
 ---
