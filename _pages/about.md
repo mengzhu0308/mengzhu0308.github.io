@@ -11,12 +11,12 @@ redirect_from:
 
 ## Research Interests
 
-1. Basic Architectures of AI.
-2. Learning Dynamics of Deep Neural Network Models.
-3. Generative Deep Learning.
-4. Intelligent Computing
-5. Intelligent Management.
-6. Video Intelligence.
+- Basic Architectures of AI
+- Learning Dynamics of Deep Neural Network Models
+- Generative Deep Learning
+- Intelligent Computing
+- Intelligent Management
+- Video Intelligence
 
 ## Work Experience and Education
 
@@ -76,10 +76,18 @@ redirect_from:
     </tbody>
   </table>
 </div>
+## Projects
+
+- Mechanism of Cross-Layer Scale Imbalance and Consistency Control in Deep Skip-Connection Network Training — National Natural Science Foundation of China (NSFC), Ongoing, Principal Investigator
+
+- Inclusivity-Oriented Service Optimization for Live-Streaming E-Commerce Platforms: From the Perspective of Value Co-Creation and Multimodal Interaction — National Natural Science Foundation of China (NSFC), Ongoing, Co-Investigator
+- Characteristics of Senior Tourism Consumers and Development Pathways for the Silver Economy in the Context of Digital-Intelligence Transformation — Jiangxi Provincial Social Science Fund, Ongoing, Co-Investigator
+
 ## Certificate of Honor
 
-Outstanding Doctoral Dissertation of Nanchang University in 2025
-
-Outstanding Trainees of the 2025 Concentrated Training for New Employees at Jiangxi University of Finance and Economics
+- Awarded the University-level "Outstanding Graduation Thesis (Design)", Class of 2026, Jiangxi University of Finance and Economics
+- Mentored students to win First, Second, and Third Prize at the 2026 Lanqiao Cup Provincial Competition
+- Outstanding Trainees of the 2025 Concentrated Training for New Employees at Jiangxi University of Finance and Economics
+- Outstanding Doctoral Dissertation of Nanchang University in 2025
 
 ## News

@@ -1,8 +1,6 @@
-Contributions are welcome! 
+# 贡献说明
 
-Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+本仓库为朱梦的个人学术博客，不开放代码贡献。
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
-
+- 如发现内容勘误或有建议，欢迎提交 Issue
+- Jekyll 模板本身的问题与功能请求，请至上游 [academicpages](https://github.com/academicpages/academicpages.github.io) 仓库反馈
