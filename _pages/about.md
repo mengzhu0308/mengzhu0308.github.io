@@ -38,6 +38,12 @@ redirect_from:
         <td>信息管理与数学学院</td>
         <td>讲师</td>
       </tr>
+       <tr>
+        <td>2026-09至今</td>
+        <td><a href="https://www.fudan.edu.cn/" target="_blank" rel="noopener">复旦大学</a></td>
+        <td>计算机科学与技术流动站</td>
+        <td>博士后研究人员</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -77,6 +83,7 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
 ## 项目
 
 - 深层跳连网络训练中跨层尺度失衡机理与一致性控制方法研究，国家自然科学基金项目，在研，主持
