@@ -8,7 +8,7 @@ redirect_from:
   - /about-me-zh/
 ---
 
-我（**朱梦**）现为[江西财经大学](https://www.jxufe.edu.cn)信息管理与数学学院的一位讲师。2026年9月起，在复旦大学计算机科学与技术博士后科研流动站从事博士后研究（在职），合作导师为[方志军教授](https://zhijunfang.github.io/)（国家级人才）。于2024年获得[南昌大学](https://www.ncu.edu.cn)信息管理与信息系统博士学位，师从[闵卫东教授](https://smcs.ncu.edu.cn/szdw/jsml/ce79f6f094154067a7dda50292b90603.htm)（国家级人才）。分别于2021年和2018年获得南昌大学计算机科学与技术硕士和学士学位。当前研究兴趣包括AI基础模型、深层神经网络模型的学习动力学、生成式深度学习、智能计算、智慧管理、视频智能。担任*[EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)*期刊的审稿人。
+我（**朱梦**）现为[江西财经大学](https://www.jxufe.edu.cn)信息管理与数学学院的一位讲师。2026年9月起，在复旦大学计算机科学与技术博士后科研流动站从事博士后研究（在职），合作导师为[方志军教授](https://zhijunfang.github.io/)（国家级人才，CCF/CSIG杰出会员，CAAI/IEEE/ACM高级会员）。于2024年获得[南昌大学](https://www.ncu.edu.cn)信息管理与信息系统博士学位，师从[闵卫东教授](https://smcs.ncu.edu.cn/szdw/jsml/ce79f6f094154067a7dda50292b90603.htm)（国家级人才，CCF杰出会员）。分别于2021年和2018年获得南昌大学计算机科学与技术硕士和学士学位。当前研究兴趣包括AI基础模型、深层神经网络模型的学习动力学、生成式深度学习、智能计算、智慧管理、视频智能。担任*[EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)*期刊的审稿人。
 
 ## 研究兴趣
 
@@ -42,7 +42,7 @@ redirect_from:
         <td>2026-09至今</td>
         <td><a href="https://www.fudan.edu.cn/" target="_blank" rel="noopener">复旦大学</a></td>
         <td>计算机科学与技术流动站</td>
-        <td>博士后研究人员（在职，合作导师为<a href="https://zhijunfang.github.io/" target="_blank" rel="noopener">方志军教授</a>）</td>
+        <td>博士后研究人员（在职，合作导师为<a href="https://zhijunfang.github.io/" target="_blank" rel="noopener">方志军教授</a>，国家级人才）</td>
       </tr>
     </tbody>
   </table>
@@ -83,6 +83,9 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
+
+
 
 
 

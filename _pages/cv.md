@@ -33,7 +33,7 @@ redirect_from:
         <td>2026-09至今</td>
         <td><a href="https://www.fudan.edu.cn/" target="_blank" rel="noopener">复旦大学</a></td>
         <td>智能机器人与先进制造创新学院</td>
-        <td>博士后研究人员（在职，合作导师为<a href="https://zhijunfang.github.io/" target="_blank" rel="noopener">方志军教授</a>）</td>
+        <td>博士后研究人员（在职，合作导师为<a href="https://zhijunfang.github.io/" target="_blank" rel="noopener">方志军教授</a>，国家级人才）</td>
       </tr>
     </tbody>
   </table>
@@ -74,6 +74,8 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
+
 
 
 
